@@ -1,7 +1,6 @@
 #include<iostream>
 #include<clocale>
 #include<algorithm>
-#include"Dovgan_string.h"
 #include<Windows.h>
 
 using namespace std;
