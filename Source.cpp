@@ -350,6 +350,6 @@ int main()
 		window.display();
 
 	}
-
+	int a;
 	return 0;
 }
